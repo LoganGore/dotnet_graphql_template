@@ -21,7 +21,7 @@ This template uses a dummy database with a strongly typed repository to help you
 
 ## Building and running this template
 
-Use either the below Docker or .NET build instructions, then open the GraphQL playgroun exposed by the application in "https://localhost:5000". You may need to override a bad cert warning as the template defaults to HTTP/S.
+Use either the below Docker or .NET build instructions, then open the GraphQL playgroun exposed by the application in "http://localhost:5000".
 
 -IN .NET (CLI):
 The root-level project directory run the following .NET Core command:
@@ -47,7 +47,7 @@ watch : Started
 [21:42:06 INF] Starting application
 Hosting environment: Development
 Content root path: /app
-Now listening on: https://0.0.0.0:5000
+Now listening on: http://0.0.0.0:5000
 Application started. Press Ctrl+C to shut down.
 [21:42:12 INF] CORS policy execution successful.
 [21:42:15 INF] CORS policy execution successful.

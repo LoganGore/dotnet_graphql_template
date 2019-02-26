@@ -12,4 +12,4 @@ RUN ["dotnet", "build"]
 EXPOSE 5000/tcp
 
 # Build runtime image
-ENTRYPOINT [ "dotnet", "watch", "run", "--no-restore", "--urls", "https://0.0.0.0:5000"]
+ENTRYPOINT [ "dotnet", "watch", "run", "--no-restore", "--urls", "http://0.0.0.0:5000"]
