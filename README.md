@@ -140,7 +140,7 @@ https://github.com/graphql-dotnet/graphql-dotnet
 Dockerizing .NET Core applications
 https://docs.microsoft.com/en-us/dotnet/core/docker/docker-basics-dotnet-core
 
-Common docker error for .NET
+Common docker error for .NET port binding
 https://stackoverflow.com/questions/51188774/docker-dotnet-watch-run-error-unable-to-bind-to-https-localhost5000-on-the-i
 
 Dotnet-Boxed Templates - Github
